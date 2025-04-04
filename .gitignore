@@ -1,4 +1,4 @@
-# Исключить файлы окружения
+
 .env
 .env.local
 .env.development
