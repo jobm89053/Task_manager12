@@ -54,3 +54,10 @@ Desktop.ini
 
 # Исключить файлы, созданные редакторами
 *.orig
+
+node_modules/
+.DS_Store
+.env.local
+.env.development
+.env.test
+.env.production

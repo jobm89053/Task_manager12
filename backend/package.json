@@ -17,13 +17,16 @@
   },
   "homepage": "https://github.com/jobm89053/Task_manager#readme",
   "dependencies": {
+    "axios": "^1.8.4",
     "bcryptjs": "^3.0.2",
+    "bootstrap": "^5.3.4",
     "dotenv": "^16.4.7",
     "express": "^4.21.2",
     "jsonwebtoken": "^9.0.2",
     "mongoose": "^8.13.0",
     "morgan": "^1.10.0",
     "nodemon": "^3.1.9",
+    "react-router-dom": "^7.4.1",
     "swagger-ui-express": "^5.0.1"
   },
   "devDependencies": {
